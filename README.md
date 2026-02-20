@@ -13,3 +13,5 @@ Languages: Python
 I’m always open to discussing the intersection of health-tech, or simply geeking out over clean code.
 
 LinkedIn: To be linked in future
+
+Copyright (c) 2026 dawidkry
