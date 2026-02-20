@@ -66,4 +66,4 @@ st.link_button("Superhero Roadmap Timeline",
 
 # 5. Footer
 st.divider()
-st.caption("⚠️ For clinical educational use only. v1.2")
+st.caption("⚠️ For educational use only.")
